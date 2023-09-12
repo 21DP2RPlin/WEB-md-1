@@ -9,6 +9,6 @@
 #square {
     width: 100px;
     height: 100px;
-    background-color: red; /* Initial color */
+    background-color: red;
     position: absolute;
 }
