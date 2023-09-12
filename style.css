@@ -1,0 +1,14 @@
+#field {
+    width: 700px; 
+    height: 400px;
+    border: 2px solid black; 
+    position: relative;
+    background-image: url('background.png');
+}
+
+#square {
+    width: 100px;
+    height: 100px;
+    background-color: red; /* Initial color */
+    position: absolute;
+}
